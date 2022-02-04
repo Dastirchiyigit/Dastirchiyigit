@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dastirchiyigit
+- 👋 Hi, I’m @Dasturchi_yigit
 - 👀 I’m interested in python , python-telegram bot , machine learning 
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on Amazon and google :)
